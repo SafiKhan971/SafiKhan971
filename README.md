@@ -1,6 +1,6 @@
 # Hi, I'm Safi Ullah Khan 👋
 
-**Full Stack Web Developer at CDigital** based in Rawalpindi, Pakistan. I build clean, efficient and user-friendly web solutions, from back-end systems and REST APIs to polished front-end interfaces.
+**Full Stack Web Developer at CDigital** based in Islamabad, Pakistan. I build clean, efficient and user-friendly web solutions, from back-end systems and REST APIs to polished front-end interfaces.
 
 ## What I work with
 
